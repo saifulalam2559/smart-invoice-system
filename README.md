@@ -24,9 +24,9 @@ A comprehensive Laravel-based invoice and billing management system with modern 
 ## Installation
 
 ### Prerequisites
-- PHP 8.0 or higher
+- PHP 8.2 or higher
 - Composer
-- MySQL 5.7 or higher
+- MySQL 8.0 or higher
 - Node.js & NPM
 
 ### Steps
