@@ -20,10 +20,6 @@ A comprehensive Laravel-based invoice and billing management system with modern 
 - **Dashboard**: Real-time statistics and charts
 - **Multi-currency Support**: Handle multiple currencies
 
-## Screenshots
-
-![Dashboard](screenshots/dashboard.png)
-![Invoice](screenshots/invoice.png)
 
 ## Installation
 
