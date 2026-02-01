@@ -20,7 +20,7 @@ class InvoiceController extends Controller
     {
         $query = Invoice::with('customer');
         
-        // Search
+        // Search result
         if ($request->has('search')) {
             $search = $request->search;
             $query->where(function($q) use ($search) {
